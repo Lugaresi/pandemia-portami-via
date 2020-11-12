@@ -16,7 +16,7 @@
 <resources>
   <string name="accessibility_back">Back</string>
   <string name="accessibility_close">Close</string>
-  <string name="accessibility_app_name">Immuni</string>
+  <string name="accessibility_app_name">Pandemia Portami Via</string>
   <string name="tabbar_title_home">Home</string>
   <string name="tabbar_title_settings">Settings</string>
   <string name="notifications_update_os_title">The service isn\'t activated yet</string>
